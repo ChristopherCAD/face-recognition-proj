@@ -4,7 +4,7 @@ Open command prompt, install <i> requirements.txt </i><br>
 <br><br>
 pip install -r /path/to/requirements.txt <br>
 <br><br>
-example, <i> pip install -r /documents/face-recognitionp-proj/requirements.txt </i>
+example, <i> pip install -r /documents/face-recognition-proj/requirements.txt </i>
 <br><br>
 <br>
 In the command prompt, run: <br>
