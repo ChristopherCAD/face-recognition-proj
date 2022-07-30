@@ -1,0 +1,8 @@
+
+imutils==0.5.4
+numpy==1.23.1
+opencv-contrib-python==4.6.0.66
+Pillow==9.2.0
+pycryptodome==3.14.1
+PyYAML==6.0
+urllib3==1.26.8
